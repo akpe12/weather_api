@@ -64,7 +64,6 @@ def run(args):
         # function 적용 후 output
         print(output_with_function)
     
-    import pdb; pdb.set_trace()
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

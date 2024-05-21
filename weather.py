@@ -278,5 +278,3 @@ def strftime(datetime: int):
     
 if __name__ == "__main__":
     weather = get_weather_forecast()
-    
-    import pdb; pdb.set_trace()
